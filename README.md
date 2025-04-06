@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 I'm a dedicated **Frontend Developer** with two years of hands-on education at a vocational university.  
-I specialize in building modern, responsive, and user-friendly web applications using:
+I enjoy building modern, responsive, and user-friendly web applications using:
 
 - ⚛️ **React** & **React Native**
 - 🟦 **TypeScript**
@@ -25,7 +25,7 @@ I'm passionate about creating clean, scalable code and love turning design ideas
 - **JavaScript / TypeScript**
 - **React / React Native**
 - **Firebase / Firestore**
-- **TailwindCSS / Styled Components**
+- **Bootstrap / Styled Components**
 - **Vercel / GitHub**
 - ...and always curious to learn more!
 
