@@ -36,7 +36,7 @@ I'm passionate about creating clean, scalable code and love turning design ideas
 Feel free to connect or reach out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/elin-ny-0969bb28a)
-- 📧 Email: [silentbob@example.com](mailto:silentbob@example.com)
+- 📧 Email: [elin_ny@outlook.com](mailto:elin_ny@outlook.com)
 
 ---
 
