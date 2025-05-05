@@ -1,42 +1,49 @@
-## 👋 Hi there!
-
-I'm a dedicated **Frontend Developer** with two years of hands-on education at a vocational university.  
-I enjoy building modern, responsive, and user-friendly web applications using:
-
-- ⚛️ **React** & **React Native**
-- 🟦 **TypeScript**
-- 🔥 **Firebase**
-- ▲ **Vercel** for deployment
-
-I'm passionate about creating clean, scalable code and love turning design ideas into interactive experiences. Whether it's a mobile app prototype or a full-blown web app, I enjoy every step of the journey.
+## Hello! 💫
+I'm a dedicated **Frontend Developer** who recently graduated (April 2025) after two years at a vocational university.  
+I enjoy building modern, responsive, and user-friendly web applications.  
+I’m driven by clean, scalable code and love turning design ideas into interactive experiences.  
+I take pride in refining my workflow and organizing my projects as I grow.
 
 ---
 
-## 🚀 What I'm Up To
+## 🏵️ What I’m Up To
 
-- 🌱 Currently diving deeper into **UI/UX Design**, **Animations** and **State Management Patterns**
-- 🔍 Exploring the world of **Jamstack**, **Serverless Functions**, and **Progressive Web Apps**
-- 🤝 Looking to collaborate on **open-source** and real-world projects that make an impact
+- 🌱 Continuing to expand my frontend skills while exploring new opportunities  
+- 📚 Diving into **backend development** and mastering **WCAG accessibility standards**  
+- 🔄 Revisiting and iterating on past projects to deepen my understanding  
+- 🚀 Building fresh web apps to put new concepts into practice  
+- 🤝 Open to freelance assignments and collaborative, impact-driven projects
 
 ---
 
-## 💬 Tech I Talk About
+## 🖥️ Tech I've worked with
 
 - **JavaScript / TypeScript**
+- **HTML / CSS**
 - **React / React Native**
-- **Firebase / Firestore**
 - **Bootstrap / Styled Components**
+- **Firebase / Firestore**
+- **SQL / RestAPI**
+- **PostgreSQL / CRUD**
+- **socket.io / MongoDB**
 - **Vercel / GitHub**
 - ...and always curious to learn more!
 
 ---
 
-## 📫 Let's Connect
+## ☀️ Let's Connect
 
 Feel free to connect or reach out:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/elin-ny-0969bb28a)
-- 📧 Email: [elin_ny@outlook.com](mailto:elin_ny@outlook.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/elin-ny-0969bb28a" target="_blank">
+    <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin-right:8px;" />
+  </a>
+  <a href="mailto:elin_ny@outlook.com">
+    <img src="assets/icons/email.svg" alt="Email" width="30" height="30" />
+  </a>
+</p>
+
 
 ---
 
