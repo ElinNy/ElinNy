@@ -9,11 +9,11 @@ I take pride in refining my workflow and organizing my projects as I grow.
 
 ## 🏵️ What I’m Up To
 
-- 🌱 Continuing to expand my frontend skills while exploring new opportunities
-- 📚 Diving into **backend development** and mastering **WCAG accessibility standards**
-- 🔄 Revisiting and iterating on past projects to deepen my understanding
-- 🚀 Building fresh web apps to put new concepts into practice
-- 🤝 Open to freelance assignments and collaborative, impact-driven projects
+- Continuing to expand my frontend skills while exploring new opportunities
+- Diving into **backend development** and mastering **WCAG accessibility standards**
+- Revisiting and iterating on past projects to deepen my understanding
+- Building fresh web apps to put new concepts into practice
+- Open to freelance assignments and collaborative, impact-driven projects
 
 ---
 
