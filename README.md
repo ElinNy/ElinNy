@@ -38,7 +38,7 @@ Feel free to connect or reach out:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/elin-ny-0969bb28a" target="_blank">
-    <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin-right:8px;" />
+    <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right:8px;" />
   </a>
   LinkedIn
   </p>
