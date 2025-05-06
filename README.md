@@ -38,11 +38,11 @@ Feel free to connect or reach out:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/elin-ny-0969bb28a" target="_blank">
-    <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right:8px;" />
+    <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   LinkedIn
   </p>
-  <p>
+  <p align="left">
   <a href="mailto:elin_ny@outlook.com">
     <img src="assets/icons/email.svg" alt="Email" width="30" height="30" />
   </a>
